@@ -9,6 +9,7 @@
 <body>
 <div class="block">
 	<h2>200</h2>
+    <?="test"?>
 </div>
 <!-- /.block -->
 </body>
