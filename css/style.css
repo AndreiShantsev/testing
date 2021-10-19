@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.block{
+    width: 150px;
+    height: 350px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+h1{
+    font-size: 22px;
+    text-align: center;
+}
